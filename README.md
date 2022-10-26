@@ -71,5 +71,5 @@ Default web root:
 /usr/share/nginx/html
 ```
 Checking Jenkins Triggers
-trigger a new job in Jenkins 1
+test archive 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
